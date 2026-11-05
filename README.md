@@ -1,2 +1,2 @@
 # httpfs4cd
-nodejs http file server for costrained devices (accepts offset/len)
+nodejs http file server for constrained client devices (accepts offset/len)
