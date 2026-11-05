@@ -9,7 +9,7 @@ node server.js
 client side:
 
 ```
-wget "http://localhost/averybigfile.bin?offset=300&len=100"
+wget "http://localhost/file-server-prefix/averybigfile.bin?offset=300&len=100"
 ```
 
 typical apache2 snippet:
