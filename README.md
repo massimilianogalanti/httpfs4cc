@@ -1,5 +1,5 @@
-# httpfs4cd
-nodejs http file server for constrained client devices (accepts offset/len)
+# httpfs4cc
+nodejs http file server for constrained clients (accepts offset and len on url)
 
 server side:
 ```
